@@ -1,0 +1,61 @@
+{
+  "kimetsu_no_yaiba": [
+    {
+      "id": "2",
+      "nombre": "Zenitsu",
+      "elemento": "Rayo"
+    },
+    {
+      "id": "3",
+      "nombre": "Inozuke",
+      "elemento": "Bestia"
+    },
+    {
+      "id": "4",
+      "nombre": "Gyiomei",
+      "elemento": "roca"
+    },
+    {
+      "id": "5",
+      "nombre": "Rengoku",
+      "elemento": "Fuego"
+    },
+    {
+      "id": "6",
+      "nombre": "Tomioka",
+      "elemento": "agua"
+    },
+    {
+      "nombre": "Kocho",
+      "elemento": "Mariposa",
+      "id": "ig7DuJ1"
+    }
+  ],
+  "kimetsu_no_yaiba_Demons": [
+    {
+      "id": "1",
+      "nombre": "Kokushibo",
+      "Demon": "Superior"
+    },
+    {
+      "id": "2",
+      "nombre": "Dom",
+      "Demon": "Superior"
+    },
+    {
+      "id": "3",
+      "nombre": "Akaza",
+      "Demon": "Superior"
+    },
+    {
+      "id": "4",
+      "nombre": "Hantengu",
+      "Demon": "Superior"
+    },
+    {
+      "id": "5",
+      "nombre": "Gyokko",
+      "Demon": "Superior"
+    }
+  ]
+}
